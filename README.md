@@ -2,4 +2,7 @@
 This project is about analysing customer attrition and credit card score using Power BI desktop for interactive dashboard creation.
 
 1) Business requirements and problem statement.
-2) Data cleaning, transformations, integration.
+2) Data cleaning, transformations.
+3) Data Modelling - creating relationship.
+4) Data Analysis
+5) Data Visualisation
